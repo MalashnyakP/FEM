@@ -1,0 +1,11 @@
+C:\Users\Oleg\source\repos\FEM\FEM\obj\Debug\netcoreapp2.0\FEM.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\source\repos\FEM\FEM\obj\Debug\netcoreapp2.0\FEM.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\FEM\FEM\obj\Debug\netcoreapp2.0\FEM.AssemblyInfoInputs.cache
+C:\Users\Oleg\source\repos\FEM\FEM\obj\Debug\netcoreapp2.0\FEM.AssemblyInfo.cs
+C:\Users\Oleg\source\repos\FEM\FEM\bin\Debug\netcoreapp2.0\FEM.deps.json
+C:\Users\Oleg\source\repos\FEM\FEM\bin\Debug\netcoreapp2.0\FEM.runtimeconfig.json
+C:\Users\Oleg\source\repos\FEM\FEM\bin\Debug\netcoreapp2.0\FEM.runtimeconfig.dev.json
+C:\Users\Oleg\source\repos\FEM\FEM\bin\Debug\netcoreapp2.0\FEM.dll
+C:\Users\Oleg\source\repos\FEM\FEM\bin\Debug\netcoreapp2.0\FEM.pdb
+C:\Users\Oleg\source\repos\FEM\FEM\obj\Debug\netcoreapp2.0\FEM.dll
+C:\Users\Oleg\source\repos\FEM\FEM\obj\Debug\netcoreapp2.0\FEM.pdb
